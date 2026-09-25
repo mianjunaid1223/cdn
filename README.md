@@ -1,5 +1,8 @@
 # JD-CDN: Declarative Animated Canvas Background Library
 
+[![Year Built](https://img.shields.io/badge/Year%20Built-2024-blue.svg)](#)
+
+
 Zero-dependency declarative canvas background animation library. Mounts procedural WebGL and 2D canvas shaders dynamically via DOM element identifiers and jsDelivr CDN imports.
 
 ```
